@@ -27,4 +27,5 @@ const user ={
     }
 }
 console.log(user.address.street.second);
-console.log(user.address.street?.second); //Ekhane question mark ta use kora hoyeche karon jodi same operation hoy but street e kono data n athake tokhon jeno eta error na dekhay tai er pore ekta question mark use kora labe
+console.log(user.address.street?.second); 
+//Ekhane question mark ta use kora hoyeche karon jodi same operation hoy but street e kono data na thake tokhon jeno eta error na dekhay tai er pore ekta question mark use kora labe. 
